@@ -1,0 +1,2 @@
+# feature-engineering-multivariate-imputation-by-chained-equation-MICE
+I used MICE (Multiple Imputation by Chained Equations) for imputing missing values in the dataset. This iterative method models each feature with missing data as a function of other features, ensuring robust imputation by preserving data integrity and capturing complex relationships between variables, suitable for diverse data types.
